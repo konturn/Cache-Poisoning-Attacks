@@ -1,5 +1,5 @@
 # Cache-Poisoning-Attacks
-Scapy Implementation of brute-force cache poisoning, Kaminsky attack, and SADDNS attack
+Scapy Implementation of brute-force cache poisoning, Kaminsky attack, and SADDNS attack.
 This is a first commit, so there may be some bugs. I may eventually refactor this code into C, but I imagine that will be a significant undertaking. In any case, there are 3 .py files:
 
 1. basic_poisoning.py--Brute-force cache-poisoning attack on a resolver with no source-port randomization. 
